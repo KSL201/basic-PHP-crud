@@ -1,0 +1,4 @@
+all the sessions in this application:
+$_SESSION[username]
+$_SESSION[role]
+$_SESSION[userId]
